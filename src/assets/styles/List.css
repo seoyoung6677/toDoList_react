@@ -1,0 +1,20 @@
+li {
+    text-align:left;
+
+}
+li input {
+    margin-top: 20px;;
+    margin-bottom:20px;
+    
+    
+
+}
+li button {
+   
+}
+li span {
+    padding:5px 10px;
+    border-bottom: solid 1px;
+    border-color: rgb(217, 226, 223);
+    
+}
